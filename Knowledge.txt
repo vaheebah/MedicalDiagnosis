@@ -1,0 +1,15 @@
+Flu has symptoms Fever (medium), Cough (low), Fatigue (high), Headache (low).
+COVID-19 has symptoms Fever (medium), Cough (low), Fatigue (medium), Loss of Smell (medium), Shortness of Breath (high).
+Common Cold has symptoms Cough (medium), Sneezing (low), Runny Nose (high).
+Malaria has symptoms Fever (medium), Chills (low), Sweating (medium), Headache (medium).
+Tuberculosis has symptoms Cough (low), Fever (low), Weight Loss (high), Night Sweats (high).
+Dengue has symptoms Fever (high), Joint Pain (medium), Headache (high), Rash (high).
+Pneumonia has symptoms Fever (high), Cough (high), Chest Pain (low), Shortness of Breath (low).
+Typhoid has symptoms Fever (medium), Abdominal Pain (low), Weakness (low), Headache (high).
+Asthma has symptoms Cough (medium), Shortness of Breath (low), Wheezing (medium).
+Bronchitis has symptoms Cough (high), Fatigue (high), Chest Discomfort (low).
+Measles has symptoms Fever (medium), Rash (low), Cough (low), Runny Nose (low).
+Sinusitis has symptoms Headache (high), Runny Nose (low), Facial Pain (high).
+Meningitis has symptoms Fever (high), Headache (high), Neck Stiffness (high).
+Chickenpox has symptoms Fever (low), Rash (medium), Fatigue (medium).
+Allergy has symptoms Sneezing (low), Runny Nose (high), Cough (high).
